@@ -78,7 +78,7 @@ links:
       target: "_blank"
 
   - link:
-      icon: "fa-solid fa-circle-nodes"
+      icon: "fa-solid fa-hurricane"
       text: "Currículo Lattes <span class='link-button-text'>(CNPq)</span>"
       url: "http://lattes.cnpq.br/2273190309603403"
       alt: "Currículo do Lattes."
